@@ -1,0 +1,29 @@
+_repo: Applied-Psychology-for-Nurses_18843
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Porter, Mary F.
+    gutenberg_agent_id: '8291'
+    url: http://www.gutenberg.org/2009/agents/8291
+description: ''
+gutenberg_bookshelf:
+- Medicine
+- Psychology
+gutenberg_issued: '2006-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18843'
+  lccn: '21016904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RT'
+- !lcsh 'Psychology'
+- !lcsh 'Nurses'
+title: Applied Psychology for Nurses
+url: http://www.gutenberg.org/ebooks/18843
